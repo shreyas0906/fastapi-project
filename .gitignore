@@ -1,0 +1,6 @@
+__pycache__
+.env
+.DS_Store
+misc.py
+misc2.py
+practice.sql
